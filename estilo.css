@@ -49,7 +49,7 @@ li a:hover {
   background: rgb(139, 105, 201);
   color: azure;
 }
-#tigre {
+#Maça{
   width: 10%;
 }
 .caixaMaça {
@@ -81,4 +81,18 @@ li a:hover {
   padding: 20px;
   display: flex;
   justify-content: center;
+}
+.rodape{
+  position: absolute;
+  width: 100;
+  height: 35px;
+  background-color: aqua;
+  color: aliceblue;
+  bottom: 0%;
+  display: flex;
+  justify-content: center;
+}
+.conteudo {
+  position: absolute;
+  top: 45px;
 }
